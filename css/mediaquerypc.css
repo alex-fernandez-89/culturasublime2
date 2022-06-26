@@ -27,7 +27,7 @@
         background-color: white;
     }
     .navbar-nav{
-        width: 45%;
+        width: 60%;
     }
     .collapse{
         justify-content:flex-end;
@@ -38,32 +38,32 @@
     .navbar-nav .nav-linka{
         text-decoration: none;
         color: red;
-        font-size: 1.9em;
+        font-size: 1.7em;
         margin-right: 4%;
         
     }
     .navbar-nav .nav-linkb{
         text-decoration: none;
         color: rgb(60, 196, 249);
-        font-size: 1.9em;
+        font-size: 1.7em;
         margin-right: 4%;
     }
     .navbar-nav .nav-linkc{
         text-decoration: none;
         color: rgb(215, 232, 101);
-        font-size: 1.9em;
+        font-size: 1.7em;
         margin-right: 4%;
     }
     .navbar-nav .nav-linkd{
         text-decoration: none;
         color: rgb(0, 255, 34);
-        font-size: 1.9em;
+        font-size: 1.7em;
         margin-right: 4%;
     }
     .navbar-nav .nav-linke{
         text-decoration: none;
         color: rgb(234, 0, 255);
-        font-size: 1.9em;
+        font-size: 1.7em;
         margin-right: 4%;
     }
     /*Hover links*/
@@ -71,7 +71,7 @@
         border-bottom: 1px solid rgb(0, 255, 0);
         text-decoration: none;
         color: white;
-        font-size: 1.9em;
+        font-size: 1.7em;
         
         
     }
@@ -79,28 +79,28 @@
         border-bottom: 1px solid rgb(0, 255, 34);
         text-decoration: none;
         color: white;
-        font-size: 1.9em;
+        font-size: 1.7em;
         
     }
     .navbar-nav .nav-linkc:hover{
         border-bottom: 1px solid rgb(0, 255, 34);
         text-decoration: none;
         color: white;
-        font-size: 1.9em;
+        font-size: 1.7em;
         
     }
     .navbar-nav .nav-linkd:hover{
         border-bottom: 1px solid rgb(0, 255, 34);
         text-decoration: none;
         color: white;
-        font-size: 1.9em;
+        font-size: 1.7em;
         
     }
     .navbar-nav .nav-linke:hover{
         border-bottom: 1px solid rgb(0, 255, 34);
         text-decoration: none;
         color: white;
-        font-size: 1.9em;
+        font-size: 1.7em;
         
     }
 
@@ -193,7 +193,7 @@
         margin-left: 5%;
         margin-bottom: 0%;
         display:grid;
-        grid-template-columns: repeat(5, 350px);
+        grid-template-columns: repeat(5, 240px);
         grid-template-rows: repeat(2, 250px);
     }
     .gallery .img-card{
