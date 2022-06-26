@@ -194,7 +194,7 @@
         margin-bottom: 0%;
         display:grid;
         grid-template-columns: repeat(5, 240px);
-        grid-template-rows: repeat(2, 250px);
+        grid-template-rows: repeat(2, 185px);
     }
     .gallery .img-card{
        

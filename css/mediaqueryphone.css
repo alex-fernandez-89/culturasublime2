@@ -139,8 +139,8 @@
         height: 90%;
         
         display:grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(5, 150px);
+        grid-template-columns: repeat(2, 200px);
+        grid-template-rows: repeat(5, 185px);
     }
     .gallery .img-card{
        
