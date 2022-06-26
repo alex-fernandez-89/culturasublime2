@@ -1,4 +1,4 @@
-@media (min-width: 350px) and (max-width: 576px){
+@media (min-width: 350px) and (max-width: 575px){
     
     
     body{
@@ -13,7 +13,7 @@
 
 
     .container-fluid .logo img{
-        width: 13vw;
+        width: 15vw;
         height: 10vh;
     }
 
@@ -275,8 +275,8 @@
         position: fixed;
         z-index: 999;
         border-radius: 50%;
-        bottom: 2%;
-        right: 4vh;
+        bottom: 5%;
+        right: 6vh;
         padding: 15px;
         transition: ease 0.3s;
         animation: none
